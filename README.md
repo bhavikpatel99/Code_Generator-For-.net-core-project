@@ -32,7 +32,7 @@ The MVC version of the script scaffolds a **.NET 8 MVC** project with dynamic vi
 
 ## 📝 Script Description (MVC Version)
 
-The script automates the creation of a .NET Core MVC web project with associated class libraries (Abstractions, Repository, Service, Common). It installs necessary NuGet packages, sets up project references, restores, builds the solution, and opens the project in Visual Studio Code.
+The script automates the creation of a .NET Core MVC web project with associated class libraries (Abstractions, Repository, Service, Common). It installs necessary NuGet packages, sets up project references, restores, builds the solution.
 
 ---
 
