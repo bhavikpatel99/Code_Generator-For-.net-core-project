@@ -66,8 +66,8 @@ The script automates the creation of a .NET Core MVC web project with associated
 ### 5. **Build and Restore**
 - Runs `dotnet restore` and `dotnet build` to verify dependencies and compilation
 
-### 6. **Opens in Visual Studio Code**
-- Automatically launches the project folder in VS Code upon success
+### 6. **Opens in file explorer**
+- Automatically launches the project folder.
 
 ---
 
